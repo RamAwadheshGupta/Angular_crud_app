@@ -23,8 +23,8 @@
       "email": "ram@gmail.com",
       "dob": "2023-05-28T18:30:00.000Z",
       "gender": "male",
-      "education": "PG Graduate",
-      "company": "UA",
+      "education": "Matric",
+      "company": "UA New",
       "experience": 2,
       "package": 12,
       "id": 1
@@ -40,6 +40,18 @@
       "experience": 2,
       "package": 18,
       "id": 2
+    },
+    {
+      "firstName": "Monika ",
+      "lastName": "Roy",
+      "email": "moooo@gmail.com",
+      "dob": "2023-04-28T18:30:00.000Z",
+      "gender": "female",
+      "education": "PG Graduate",
+      "company": "New Upad",
+      "experience": 5,
+      "package": 10,
+      "id": 3
     }
   ]
 }
